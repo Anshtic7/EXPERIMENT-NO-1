@@ -18,31 +18,26 @@ bool – for True or False values
 Python provides built-in functions to interact with the user.
 input() is used to take data from the user.
 print() is used to display output on the screen.
-These functions help in making programs interactive.
 
-3. Arithmetic Operations
+4. Arithmetic Operations
 Python supports various arithmetic operations such as:
 Addition (+)
 Subtraction (−)
 Multiplication (*)
 Division (/)
-Exponent (**)
-These operators are used to perform mathematical calculations in programs.
+Exponent (**).
 
-4. Mathematical Functions
+5. Mathematical Functions
 Python provides a math library that contains useful mathematical functions such as square root, power, logarithm, etc. These functions make complex calculations easy and accurate.
 
-5. Conditional Statements
+6. Conditional Statements
 Conditional statements are used to make decisions in a program.
 The if, elif, and else statements allow the program to execute different blocks of code depending on conditions.
-
-6. Program Execution
-Python programs are executed line by line. Errors, if any, are shown immediately, making debugging easy. This makes Python a good language for beginners.
 
 Algorithm:-
 
 Start the program.
-Declare and initialize variables to store numerical and textual data.
+Declare and initialize variables to store numerical and string data.
 Display the values of the variables using the print() function.
 Read input values from the user using the input() function.
 Convert the input values to required data types (integer or float).
