@@ -34,18 +34,39 @@ Python provides a math library that contains useful mathematical functions such 
 Conditional statements are used to make decisions in a program.
 The if, elif, and else statements allow the program to execute different blocks of code depending on conditions.
 
-Algorithm:-
+Algorithm: 
+{Addition of Two Numbers}
 
-Start the program.
-Declare and initialize variables to store numerical and string data.
-Display the values of the variables using the print() function.
-Read input values from the user using the input() function.
-Convert the input values to required data types (integer or float).
-Perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
-Use mathematical functions to perform required calculations.
-Apply conditional statements (if, elif, else) to check given conditions.
-Display the result based on the condition evaluated.
-Repeat the above steps for different operations as required in the program.
+Start
+Declare two variables a and b to store the input numbers.
+Read the first number from the user using the input() function and store it in a.
+Read the second number from the user using the input() function and store it in b.
+Convert the input values to integer or float as required.
+Add the two numbers using the + operator and store the result in sum.
+Display the value of sum using the print() function.
+Stop the program.
+
+{Algorithm: Area of a Circle}
+
+Start
+Declare a variable r to store the radius of the circle.
+Read the value of radius from the user using the input() function.
+Convert the input value into float.
+Declare a constant π (pi) as 3.14.
+Calculate the area using the formula: pi*r^2
+Store the result in a variable area.
+Display the value of area using the print() function.
+Stop the program.
+
+{Algorithm: To Find the Greater of Two Numbers}
+
+Start
+Declare two variables a and b.
+Read the first number from the user and store it in a.
+Read the second number from the user and store it in b.
+Compare the two numbers using the if condition.
+If a > b, display "a is the greater number".
+Else, display "b is the greater number".
 Stop the program.
 
 CONCUSION:- 
